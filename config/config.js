@@ -136,6 +136,12 @@ export default defineConfig({
           path: '/product/product-entry',
           component: './product/product-entry',
         },
+        {
+          name: 'Product list',
+          icon: 'smile',
+          path: '/product/product-list',
+          component: './product/product-list',
+        },
       ],
     },
     {

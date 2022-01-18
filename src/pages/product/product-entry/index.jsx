@@ -30,7 +30,7 @@ const BasicForm = () => {
     console.log(values);
     run(values);
   };
-
+ 
   return (
     <PageContainer content="The amazing product entry">
       <Card bordered={false}>
@@ -107,7 +107,7 @@ const BasicForm = () => {
               },
             ]}
             label="Size"
-            name="productSize"
+            name="size"
           />
         </ProForm>
       </Card>
