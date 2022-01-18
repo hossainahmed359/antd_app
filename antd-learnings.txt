@@ -1,0 +1,11 @@
+What I have learnt until now:
+
+###  Basic setup and installation of antd pro
+###  How the customize the basic from and change date range picker to data picker
+###  How to make a similar form and create routing from config.js
+###  How to hit the api on form submission (what is the purpose of service.js and mock.js)
+###  How to change of cusomize the watermark (Serati Ma)
+###  How to get the table list and copy all the folder to another directory.
+###  Then handle the rounting of the directory.
+###  Customizing the the columns and changing the hard coded data from the mock api.
+###  Exploring the service file for the api request.
